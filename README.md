@@ -24,7 +24,7 @@ Use x.has(key) to check if this key exists in the hash map.
 
 ## remove()
 
-Use x.remove(key to remove this key and its value from the hash map.
+Use x.remove(key) to remove this key and its value from the hash map.
 
 ## length()
 
